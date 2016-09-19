@@ -98,7 +98,7 @@ public class Member implements Serializable {
         return age;
     }
 
-    public void setAge(String age) {
+    public void setAge(int age) {
         this.age = age;
     }
 }
